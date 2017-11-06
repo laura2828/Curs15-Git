@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 etc
 Modificare locala
+=======
+
+
+
+Modificare remote
+>>>>>>> ee97f6ba5e1a0c3d97de968308662b6e42bdad17
