@@ -1,3 +1,4 @@
 etc
 Modificare locala
 Modificare remote
+var i=6;
